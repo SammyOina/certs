@@ -12,8 +12,8 @@ github.com/Nvveen/Gotty v0.0.0-20120604004816-cd527374f1e5 h1:TngWCqHvy9oXAN6lEV
 github.com/Nvveen/Gotty v0.0.0-20120604004816-cd527374f1e5/go.mod h1:lmUJ/7eu/Q8D7ML55dXQrVaamCz2vxCfdQBasLZfHKk=
 github.com/VividCortex/gohistogram v1.0.0 h1:6+hBz+qvs0JOrrNhhmR7lFxo5sINxBCGXrdtl/UvroE=
 github.com/VividCortex/gohistogram v1.0.0/go.mod h1:Pf5mBqqDxYaXu3hDrrU+w6nw50o/4+TcAqDqk/vUH7g=
-github.com/absmach/supermq v0.19.2-0.20260317185610-fade98b84ee4 h1:533pRc6R7perWDqJuZq+ofBQfYfmyj7n49V4LFY4zpo=
-github.com/absmach/supermq v0.19.2-0.20260317185610-fade98b84ee4/go.mod h1:xDAX/O3VcOsHWCx2fk85VD7FI17hAUOvoOhho7DA7g0=
+github.com/absmach/supermq v0.19.1 h1:uLrf1fXpn0W6BkSSaa+d1Kw0KXygSfNn+b2EqFpCiMA=
+github.com/absmach/supermq v0.19.1/go.mod h1:UCC6/UIRhO70inBIzlwC1Cm/wCyQj+yuP4dhMZSjXIc=
 github.com/beorn7/perks v1.0.1 h1:VlbKKnNfV8bJzeqoa4cOKqO6bYr3WgKZxO8Z16+hsOM=
 github.com/beorn7/perks v1.0.1/go.mod h1:G2ZrVWU2WbWT9wwq4/hrbKbnv/1ERSJQ0ibhJ6rlkpw=
 github.com/caarlos0/env/v10 v10.0.0 h1:yIHUBZGsyqCnpTkbjk8asUlx6RFhhEs+h7TOBdgdzXA=

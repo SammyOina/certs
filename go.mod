@@ -3,7 +3,7 @@ module github.com/absmach/certs
 go 1.26.0
 
 require (
-	github.com/absmach/supermq v0.19.2-0.20260317185610-fade98b84ee4
+	github.com/absmach/supermq v0.19.1
 	github.com/caarlos0/env/v10 v10.0.0
 	github.com/fatih/color v1.18.0
 	github.com/go-chi/chi/v5 v5.2.5
